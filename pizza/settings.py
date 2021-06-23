@@ -24,7 +24,8 @@ SECRET_KEY = 'p5_k&em$s83y2z=y82%s=ye60dv8gved2c3f(a3#jb15w=o3%v'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'pizzahut94.herokuapp.com'
+    'pizzahut94.herokuapp.com',
+    'sahilb-pizzahut94.herokuapp.com'
 ]
 
 
